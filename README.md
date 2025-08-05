@@ -8,9 +8,11 @@
 
 <h1 align="center">Hi 👋, I'm Gasser Elkomy</h1>
 <h3 align="center">🚀 Flutter Developer | Architecting Clean Mobile Systems | From Egypt</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/🎯%20Open%20to%20Work-success?style=for-the-badge&color=27ae60" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-Pro-8e44ad?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase%20%26%20Firebase-Stack-27ae60?style=for-the-badge&logo=firebase&logoColor=white" />
