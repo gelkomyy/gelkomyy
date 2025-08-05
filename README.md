@@ -1,21 +1,42 @@
-<h1 align="center">Hey 👋, I'm Gasser Elkomy</h1>
-<h3 align="center">💻 A Passionate Flutter Developer from Egypt</h3>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="120" alt="developer icon" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Gasser Elkomy</h1>
+<h3 align="center">🚀 Flutter Developer | Architecting Clean Mobile Systems | From Egypt</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gelkomyy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/gelkomyy">
+    <img src="https://komarev.com/ghpvc/?username=gelkomyy&label=Profile+Views&color=0e75b6&style=flat" alt="gelkomyy" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🌱 I’m currently learning **Agile**, **Backend**, and **SaaS design patterns**
-- 💬 Ask me about **Flutter**, **Clean Architecture**, **Supabase**, **Firebase**, **Bloc**, **Cubit**, **PHP with MySQL**, and **production-ready mobile apps**
-- 👨‍💻 All of my projects are available in my [GitHub Portfolio](https://github.com/gelkomyy/my-apps-portfolio)
-- 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/gelkomy)
-- 📫 Reach me at **devkomy@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/17-b5Pp_q_HVxh_Tc7CBgB9dBRa8kt7OE/view?usp=sharing)
-- ⚡ Fun fact: **I architect clean systems, break limits, and still forget to drink water. 💧📱**
+- 🌱 Currently learning: **Agile**, **Backend**, **SaaS Design Patterns**
+- 🧩 Tech Interests: **System Architecture**, **AI Integration**, **DevOps Fundamentals**
+- 💬 Ask me about: **Flutter**, **Clean Architecture**, **Supabase**, **Firebase**, **Bloc**, **Cubit**, **PHP + MySQL**
+- 📝 I write tech content on [LinkedIn](https://www.linkedin.com/in/gelkomy)
+- 👨‍💻 My projects: [My GitHub Portfolio](https://github.com/gelkomyy/my-apps-portfolio)
+- 📄 Resume: [View My CV](https://drive.google.com/file/d/17-b5Pp_q_HVxh_Tc7CBgB9dBRa8kt7OE/view?usp=sharing)
+- 📫 Reach me: **devkomy@gmail.com**
+- ⚡ Fun Fact: **I architect clean systems, break limits, and still forget to drink water. 💧📱**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
@@ -25,24 +46,8 @@
   <a href="https://linkedin.com/in/gelkomy" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <a href="mailto:devkomy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
