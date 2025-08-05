@@ -1,9 +1,20 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=675fff&center=true&vCenter=true&width=800&lines=Flutter+Developer+from+Egypt;Mobile-First+Architect+%F0%9F%93%B1;Loves+Clean+Code+and+Systems+Thinking" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="120" alt="developer icon" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gasser Elkomy</h1>
 <h3 align="center">🚀 Flutter Developer | Architecting Clean Mobile Systems | From Egypt</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Open%20to%20Work-success?style=for-the-badge&color=27ae60" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Pro-8e44ad?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase%20%26%20Firebase-Stack-27ae60?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://github.com/gelkomyy">
