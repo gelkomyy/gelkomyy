@@ -32,7 +32,7 @@
 - 🧩 Tech Interests: **System Architecture**, **AI Integration**, **DevOps Fundamentals**
 - 💬 Ask me about: **Flutter**, **Clean Architecture**, **Supabase**, **Firebase**, **Bloc**, **Cubit**, **PHP + MySQL**
 - 📝 I write tech content on [LinkedIn](https://www.linkedin.com/in/gelkomy)
-- 👨‍💻 My projects: [My Portfolio](https://gasser-elkomy.netlify.app/)
+- 👨‍💻 My projects: [My Portfolio](https://gelkomy.is-a.dev/)
 - 📄 Resume: [View My CV](https://drive.google.com/file/d/17-b5Pp_q_HVxh_Tc7CBgB9dBRa8kt7OE/view?usp=sharing)
 - 📫 Reach me: **devkomy@gmail.com**
 - ⚡ Fun Fact: **I architect clean systems, break limits, and still forget to drink water. 💧📱**
